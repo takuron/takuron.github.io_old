@@ -37,8 +37,8 @@ nightMode: true
 
 # Comments 评论功能
 comments:
-  disqus: false
-  disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+  disqus: true
+  disqus_url: 'https://liaokeyu.disqus.com/embed.js' #无效
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
@@ -51,12 +51,12 @@ social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 theme-color: 'default'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
-postPatterns: 'circuitBoard'
+postPatterns: 'seaOfClouds'
 
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//weibo.com/lovecolcol'
+  weibo: '//weibo.com/zs-river'
 #  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
 #  instagram: '//www.instagram.com/steveliaocn'
   github: '//github.com/takuron'
