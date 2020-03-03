@@ -33,7 +33,7 @@ avatar: 'https://i.loli.net/2020/03/03/A9BWzNconYw7tCp.jpg' # 进行修改，必
 search: true
 
 # Night mode
-nightMode: true
+nightMode: false
 
 # Comments 评论功能
 comments:
