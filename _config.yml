@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '廖柯宇的独立博客'
-description: '昵称悟空，千禧一代，前端开发者/伪极客/灵魂摄影师，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
-keyword: '廖柯宇, 廖柯宇的独立博客, 廖柯宇的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
+title: 'Passer'
+description: '游手好闲的野鸡电子爱好者的个人博客，交流为数不多的技术心得。'
+keyword: '仲孙星河,Takuron,blog,zs-river,zhongsunxinghe,developer,personal'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -24,10 +24,10 @@ footer:
   since: 2017
 
 # Author 配置博主信息
-author: '廖柯宇'
-nickname: '悟空'
-bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
-avatar: '/assets/img/profile.png'
+author: 'Takuron'
+nickname: 'Takuron'
+bio: '不务正业的逗比大学生'
+avatar: '/assets/img/profile.png' # 进行修改，必须要完整链接
 
 # Search
 search: true
@@ -57,9 +57,9 @@ postPatterns: 'circuitBoard'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   weibo: '//weibo.com/lovecolcol'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
+#  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
+#  instagram: '//www.instagram.com/steveliaocn'
+  github: '//github.com/takuron'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
@@ -77,11 +77,11 @@ kramdown:
   input: GFM
 
 # RSS
-RSS: false
+RSS: true
 
 # Permalink
 # See: https://github.com/kaeyleo/jekyll-theme-H2O/issues/35
-permalink: /:year/:month/:day/:title.html
+permalink: /blog/:title.html
 
 # Plugins
 plugins: [jekyll-paginate]
