@@ -2,6 +2,7 @@
 layout: default
 home-title: H2O Theme For Jekyll
 description: 或许是最漂亮的Jekyll主题
+head.img: https://i.loli.net/2020/02/07/npbhvSHyrPxmZR1.jpg
 ---
 
 {% include header.html %}
@@ -9,7 +10,7 @@ description: 或许是最漂亮的Jekyll主题
 <div
     class="g-banner home-banner {{ site.theme-color | prepend: 'banner-theme-' }}"
     data-theme="{{ site.theme-color }}"
-    style="{% if page.header-img %}background: url({{ page.header-img | relative_url }}) no-repeat center center; background-size: cover;{% endif %}"
+    style="{% if page.header-img %}background: url({{ page.header-img }}) no-repeat center center; background-size: cover;{% endif %}"
 >
     <h2>{{ page.home-title }}</h2>
     <h3>{{ page.description }}</h3>
@@ -58,7 +59,7 @@ description: 或许是最漂亮的Jekyll主题
         <div class="g-sidebar">
             <section class="author-card">
                 <div class="avatar">
-                    <img src="{{ site.avatar | relative_url }}" alt="">
+                    <img src="{{ site.avatar }}" alt="">
                 </div>
                 <div class="author-name" rel="author">{{ site.author }}</div>
                 <div class="bio">
