@@ -82,7 +82,7 @@ RSS: true
 
 # Permalink
 # See: https://github.com/kaeyleo/jekyll-theme-H2O/issues/35
-permalink: /blogs/:title
+permalink: /:title
 
 # Plugins
 plugins: [jekyll-paginate]
