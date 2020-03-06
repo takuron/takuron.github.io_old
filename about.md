@@ -1,9 +1,41 @@
 ---
 layout: info
 title: 关于
-subtitle: 这仅仅是用来测试的样例
 permalink: /about/
-cover: https://cdn.jsdelivr.net/gh/takuron/ImgStorage/20200225222019.jpg
+cover: https://i.loli.net/2020/02/07/EDd9RsiqCkaJgMN.jpg
 ---
 
-# 测试
+
+[![我是垃圾](https://i.postimg.cc/XJcCV99s/b3e372fef1b3ef1615ceceaaedda1078-01.jpg)](https://postimg.cc/9R0MbR89)
+
+我，性别男，爱好我女朋友。就读于某个拖累各大平台平均水平的学校，大一绝赞划水中。平时喜欢各种电子垃圾和重装各种系统，随缘搞Android开发。
+
+四斋不需要运动，欢迎在steam送我各种游戏。如果您觉得我写的还不错，也可以[赏我口饭吃](http://www.dashangcloud.com/sh/87ac15)。
+
+[![hh209.gif](https://i.postimg.cc/s23c5fKH/hh209.gif)](https://postimg.cc/nXwBJJyq)
+
+### 感谢
+
+-------
+
+本网站由[GitHub Pages](https://pages.github.com/)
+提供免费的托管服务，[Cloudflare](https://www.cloudflare.com/)
+提供免费CDN加速服务，使用[Jekyll](https://jekyllrb.com/)
+技术搭建。
+
+本站由[H2O](https://github.com/kaeyleo/jekyll-theme-H2O)主题修改而成。
+
+本站的图片存储于[SM.MS](https://sm.ms/)上，并感谢pixiv画师[くしだ@3日目西ゆ-17b](https://www.pixiv.net/member.php?id=11441042)的作品，本站的各个页面的默认图片均来自于其p站分享。
+
+本站的评论系统免费托管于[来必力](https://livere.com/introduce)。
+
+### 转载
+
+-------
+
+本网站所有文章内容均原创，未特殊标注均遵循[知识共享署名 4.0 国际许可协议](https://creativecommons.org/licenses/by/4.0/)
+进行许可，转载需要署名并附上原文链接。
+
+本站其他内容（包括图片，音频，视频）以实际来源的授权为准。
+
+本站源代码基于[MIT开源协议](https://github.com/takuron/takuron.github.io/blob/master/LICENSE.txt)开源。

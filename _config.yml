@@ -16,8 +16,8 @@ baseurl: ''
 
 # Navigation links
 nav:
-  home: '/'
-  tags: '/tags.html'
+  about: '/about/'
+  tags: '/tags/'
   res: 'https://res.takuron.top/'
 
 # Footer
