@@ -18,7 +18,7 @@ baseurl: ''
 nav:
   about: '/about/'
   tags: '/tags/'
-  res: 'https://res.takuron.top/'
+  links: '/links/'
 
 # Page links
 link:
