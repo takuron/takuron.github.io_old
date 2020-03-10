@@ -20,6 +20,18 @@ nav:
   tags: '/tags/'
   res: 'https://res.takuron.top/'
 
+# Page links
+link:
+  资源站: 'https://res.takuron.top/'
+
+# Page Tools
+tool:
+  觅密——SeekPassword: 'https://seekpassword.takuron.top/'
+
+# Page Friends
+friend:
+  Byter的个人网站: 'https://byter.xyz/'
+
 # Footer
 footer:
   since: 2017
