@@ -23,10 +23,14 @@ nav:
 # Page links
 link:
   资源站: 'https://res.takuron.top/'
+  小工具合集（GitHub Pages版）: 'https://takuron-tool.github.io/'
+  小工具合集（Gitee Pages版）: 'https://takuron-tool.gitee.io/'
 
 # Page Tools
 tool:
-  觅密——SeekPassword: 'https://seekpassword.takuron.top/'
+  t.cn短链生成: 'https://t.cn/Ai97oTsj'
+  Markdown在线工具: 'https://url.cn/5pVE0I4'
+  与佛论禅: 'https://url.cn/5xye2cH'
 
 # Page Friends
 friend:
