@@ -22,7 +22,7 @@ nav:
 
 # Page links
 link:
-  资源站: 'https://res.takuron.top/'
+  PasseRes资源站: 'https://res.takuron.top/'
   小工具合集（GitHub Pages版）: 'https://takuron-tool.github.io/'
   小工具合集（Gitee Pages版）: 'https://takuron-tool.gitee.io/'
 
@@ -38,7 +38,7 @@ friend:
   吃纸怪的博客: 'https://chizg.cn/'
   Young ideas: 'https://yidas.cn/'
   缤風小栈: https://binfeng233.cn/
-  
+
 # Footer
 footer:
   since: 2017
@@ -104,4 +104,7 @@ RSS: true
 permalink: /:title
 
 # Plugins
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
