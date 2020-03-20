@@ -34,10 +34,12 @@ tool:
 
 # Page Friends
 friend:
-  Byter的个人网站: 'https://byter.xyz/'
-  吃纸怪的博客: 'https://chizg.cn/'
-  Young ideas: 'https://yidas.cn/'
+  Byter的个人网站: https://byter.xyz/
+  吃纸怪的博客: https://chizg.cn/
+  Young ideas: https://yidas.cn/
   缤風小栈: https://www.binfeng.fun/
+  青益的小窝: https://www.lastcoder.top/
+  Seirei : https://seirei.top/
 
 # Footer
 footer:
