@@ -23,16 +23,15 @@ nav:
 
 # Page links
 link:
-  PasseRes资源站: 'https://res.takuron.top/'
-  小工具合集（GitHub Pages版）: 'https://takuron.top/go?url=https://takuron-tool.github.io/'
-  小工具合集（Gitee Pages版）: 'https://takuron.top/go?url=https://takuron-tool.gitee.io/'
+  PasseRes资源站: https://res.takuron.top/
+  小工具合集（GitHub Pages版）: https://takuron.top/go?url=https://takuron-tool.github.io/
+  小工具合集（Gitee Pages版）: https://takuron.top/go?url=https://takuron-tool.gitee.io/
 
 # Page Tools
 tool:
   Coolexe : https://www.coolexe.com/
-  t.cn短链生成: 'https://takuron.top/go?url=https://t.cn/Ai97oTsj'
-  Markdown在线工具: 'https://takuron.top/go?url=https://url.cn/5pVE0I4'
-  与佛论禅: 'https://takuron.top/go?url=https://url.cn/5xye2cH'
+  t.cn短链生成: https://takuron.top/go?url=https://t.cn/Ai97oTsj
+  Markdown在线工具: https://takuron.top/go?url=https://url.cn/5pVE0I4
 
 # Page Friends
 friend:
@@ -43,14 +42,17 @@ friend:
   青益的小窝: https://www.lastcoder.top/
   Seirei：一个温暖的小窝温暖(*´∀｀) : https://seirei.top/
   Barkure : https://guguga.cn/
-  imByteCat：✨ To reach the unreachable star. : https://www.imbytecat.com/
-  行云小站 : https://w568w.github.io
+  imByteCat：✨ To reach the unreachable star. （暂时屏蔽）: https://takuron.top/go?url=https://www.imbytecat.com/
+  行云小站（暂时屏蔽） : https://takuron.top/go?url=https://w568w.github.io
   Seimo博客 : https://seimo.pw/
   ajian：一个二次元技术宅的个人博客。 : https://ajian.online/
   地皮的博客：祈愿世界永远美好 : https://dpii.club/
-  Davinci的红茶馆：我只是一个追逐群星的孩子，注视着天空中千万繁星的诞生。 : https://davincievans.top/
-  飘若客 : https://wangz.online/
+  Davinci的红茶馆：我只是一个追逐群星的孩子，注视着天空中千万繁星的诞生。（暂时屏蔽） : https://takuron.top/go?url=https://davincievans.top/
+  飘若客（暂时屏蔽） : https://takuron.top/go?url=https://wangz.online/
   FANTASY博客：记录学习、生活的小站: https://blog.tigerxly.com/
+  DeepWave：我不祝你一帆风顺，我祝你乘风破浪 : https://www.deepwave.top/
+  guqing's blog：毕生所求无它，爱与自由而已 : https://guqing.xyz
+
 
 
 # Footer
