@@ -4,7 +4,7 @@ title: Markdown语法简介
 subtitle: 这仅仅是用来测试的样例
 categories: 测试
 tags: sample markdown 测试
-cover: https://cdn.jsdelivr.net/gh/takuron/ImgStorage/20200225222019.jpg
+cover: https://s2.loli.net/2022/10/18/pG85sIWFtqxMuV2.webp
 ---
 
 本中文版Markdown语法简介来自博客 <https://blog.shengbin.me/posts/markdown-syntax>
