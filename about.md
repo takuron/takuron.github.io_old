@@ -2,7 +2,7 @@
 layout: info
 title: 关于
 permalink: /about/
-cover: https://s2.loli.net/2023/04/25/L7eqbUrWxHhdRaw.webp
+cover: https://s2.loli.net/2023/04/25/TXd2pgex3YhucP7.webp
 ---
 
 
