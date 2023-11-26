@@ -23,26 +23,21 @@ nav:
 
 # Page links
 link:
-  小工具合集（GitHub Pages版）: https://takuron.top/go?url=https://takuron-tool.github.io/
-  小工具合集（Gitee Pages版）: https://takuron.top/go?url=https://takuron-tool.gitee.io/
+  小工具合集（GitHub Pages版）: go?url=https://takuron-tool.github.io/
 
 # Page Tools
 tool:
-  Coolexe : https://www.coolexe.com/
   Markdown在线工具: https://takuron.top/go?url=http://coolaf.com/tool/md
 
 # Page Friends
 friend:
   Sonatta： 生活小栈: https://sonatta.top/
-  吃纸怪的博客：分享日常笔记和优质内容: https://chizg.cn/
-  缤風小栈: https://www.binfeng.fun/
-  Seirei：一个温暖的小窝温暖(*´∀｀) （暂时屏蔽）: https://takuron.top/go?url=https://seirei.top/
-  Barkure : https://guguga.cn/
+  吃纸怪的博客：分享日常笔记和优质内容: https://takuron.top/go?url=https://chizg.cn/
   imByteCat：✨ To reach the unreachable star. : https://www.imbytecat.com/
   地皮的博客：祈愿世界永远美好 : https://dpii.club/
   Davinci的红茶馆：Write the code, change the world。 : https://davincisama.com
   FANTASY博客：记录学习、生活的小站: https://blog.tigerxly.com/
-  guqing's blog：毕生所求无它，爱与自由而已 : https://guqing.xyz
+  guqing's blog：毕生所求无它，爱与自由而已 : https://guqing.io/
   天雨的博客：Be smart. Be studious. : https://blog.irain.in/
 
 
@@ -73,7 +68,7 @@ mathjax: true
 
 # Share
 social-share: true
-social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
+social-share-items: ['wechat', 'weibo', 'twitter']
 
 # theme color 主题皮肤
 theme-color: 'default'  # pink or default
